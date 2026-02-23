@@ -8,8 +8,8 @@
 
 '''
 
-#from dotenv import load_dotenv
-#load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 # from langchain_openai import OpenAI
 # llm = OpenAI()
@@ -36,5 +36,6 @@ if st.button("시 작성 요청하기"):
 #st.title("_Streamlit_ is :blue[cool] :sunglasses:")
 #title = st.text_input("시의 주제를 제시해주세요",)
 #st.write("시의 주제는", title)
+
 
 
